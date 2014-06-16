@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;IOIOSimpleApp.java&apos; to &apos;IOIOSimpleApp/src/ioio.examples.simple&apos;&#x0D;&#x0A;- Original project: &apos;IOIOSimpleApp&apos;&#x0D;&#x0A;- Destination element: &apos;IOIOSimpleApp/src/ioio.examples.simple&apos;&#x0D;&#x0A;- Original element: &apos;ioio.examples.simple.IOIOSimpleApp.java&apos;" description="Copy compilation unit" destination="/src&lt;ioio.examples.simple" element1="/src&lt;ioio.examples.simple{IOIOSimpleApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1402521165554" units="1" version="1.0"/>
-</session>
